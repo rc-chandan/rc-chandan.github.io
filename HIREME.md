@@ -67,4 +67,3 @@ September 2014 to September 2016
 ## Certifications
 
  - Advanced Java certification from a reputed Institution in Odisha
-<br> :tada: :fireworks:
