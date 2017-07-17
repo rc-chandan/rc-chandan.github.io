@@ -17,14 +17,13 @@
 
 ## Skills
 
-- Advanced problem solving skills
-- Java, Springboot, Hibernate
-- REST API design knowledge
-- Shell scripting
-- Advanced Javascript, ES2015
+- Javascript, ES2015
 - React JS, Redux
 - DOJO, Cesium JS
 - Javascript Build tools
+- Java, Springboot, Hibernate
+- REST API design knowledge
+- Shell scripting
 ---------
 ## Work History
 
