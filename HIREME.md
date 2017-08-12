@@ -1,10 +1,8 @@
 
 # Chandan Rana
-
 507, B block, AECS Layout
 <br>Bangalore, Karnataka 560037
-<br>Cell: 8908389654
-<br>E-Mail: chandan316@outlook.com
+<br>Cell: 8908389654 | E-Mail: chandan316@outlook.com
 
 ### Social
   - [Medium](https://medium.com/@chandanrana)
@@ -12,11 +10,9 @@
   - [Posts @ StackOverflow](https://stackoverflow.com/users/5538864/rc-chandan)
 
 ## Professional Summary
-
 >Software Developer skilled at technical leadership, communication and presentations. Experienced in full project life cycle from design to implementation to integration.
 
 ## Skills
-
 - Vanila Javascript, Ecma Script 2015
 - React JS, Redux, Redux Saga (frontend widgetting framework)
 - DOJO, Cesium JS (for GIS globe manipulation in HTML5 canvas)
@@ -28,7 +24,6 @@
 - Shell scripting (basic bash scrpting knowledge for bundling projects with deps)
 ---------
 ## Work History
-
 October 2016 to Current
 <br>VizExperts India Pvt Ltd Bangalore, Karnataka
 <br>*Lead Engineer, Web Application*
@@ -49,7 +44,6 @@ September 2014 to September 2016
   - Given Java talks in many TCS dev conferences.
 ---------
 ## Education
-
 2014
 <br>Biju Pattnaik University of Technology,
 <br>Bachelor of Science Computer Science
@@ -60,12 +54,10 @@ September 2014 to September 2016
   - Certificate in Computer Applications Programming
 
 ## Accomplishments
-
   - Developed SQL query automation tool, resulting in a 90% increase in employee productivity.​
   - Developed Android application for contact sharing for TCS project teams.
   - Served as Lead Programmer on product Georbis Enterprise.
   - Awarded Technical Member R&D award TCS Bangalore 2015
 
 ## Certifications
-
  - Advanced Java certification from a reputed Institution in Odisha
