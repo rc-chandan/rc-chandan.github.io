@@ -35,7 +35,6 @@ October 2018 to Current
   - Worked mostly on backend features and code reviews, refractoring of old modules.
   - Mentored and helped react native app team.
   - Guided Junior developers in different situations to design and write better code.
-  - Given technical talk on software architecture design for new products and modularising old products code bases.
   - Given sessions on GCloud and various offerings and how they fit your needs.
   - Given training sessions on React and Redux.
 ---------
