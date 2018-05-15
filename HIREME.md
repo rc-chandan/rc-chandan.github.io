@@ -63,7 +63,7 @@ October 2016 to Sep 2017
 
 * **Lead Engineer, Web Application**
   * Developed full stack GIS based web applications using Spring boot, Spring MVC, Spring Security, Hibernate, REST API as backend and React JS, Redux, JSX, DOJO, Javascript, ES2015 as frontend tech stack.
-  * Lead the migration project of DOJO frontend to React for GeorbIS Enterprice product.
+  * Lead the migration project of DOJO frontend to React for GeorbIS Enterprise product.
   * Directed software design and development while remaining focused on client needs.
   * Guided Junior developers in different situations to design and write better code.
   * Given technical talk on software architecture design for new products and modularising old products code bases.
