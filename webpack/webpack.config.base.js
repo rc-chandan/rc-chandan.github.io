@@ -2,20 +2,47 @@ const path = require('path');
 const webpack = require('webpack');
 
 const config = {
-  entry: path.resolve(__dirname, '../src/app/index.js'),
+  entry: {
+    main: ['./src/index.js']
+  },
   output: {
-    path: path.resolve(__dirname, '../public'),
-    publicPath: '/public/'
+    filename: 'js/[name]-bundle.js',
+    path: path.resolve(__dirname, '../public')
   },
   module: {
     rules: [
       {
-        test: /\.(s*)css$/,
-        use: ['style-loader', 'css-loader', 'sass-loader']
+        test: /\.html$/,
+        use: [
+          {
+            loader: 'file-loader',
+            options: { name: '[name].html' }
+          },
+          { loader: 'extract-loader' },
+          { loader: 'html-loader' }
+        ]
+      },
+      {
+        test: /\.scss$/,
+        use: [
+          { loader: 'style-loader' },
+          { loader: 'css-loader' },
+          { loader: 'sass-loader' }
+        ]
       },
       {
         test: /\.(png|jpg|gif)$/,
-        use: 'file-loader?name=images/[name].[hash].[ext]'
+        use: [
+          {
+            loader: 'file-loader',
+            options: { name: '[name].[hash].[ext]' }
+          }
+        ]
+      },
+      {
+        test: /\.(js|json|jsx)$/,
+        use: { loader: 'babel-loader' },
+        exclude: /node_modules/
       }
     ]
   }

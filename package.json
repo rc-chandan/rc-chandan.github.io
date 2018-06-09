@@ -8,17 +8,25 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "build": "NODE_ENV=production webpack",
-    "build:dev": "NODE_ENV=dev webpack",
-    "dev": "yarn build:dev && nodemon --inspect src/app/index.js"
+    "clean": "rimraf public",
+    "build": "yarn run clean && NODE_ENV=production webpack --progress",
+    "build:dev": "yarn run clean && NODE_ENV=development webpack --progress --watch"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-plugin-transform-es2015-arrow-functions": "^6.22.0",
+    "css-loader": "^0.28.11",
+    "extract-loader": "^2.0.1",
     "file-loader": "^1.1.11",
-    "nodemon": "^1.17.5",
+    "html-loader": "^0.5.5",
+    "node-sass": "^4.9.0",
+    "rimraf": "^2.6.2",
     "sass-loader": "^7.0.3",
+    "style-loader": "^0.21.0",
     "webpack": "^4.11.1",
     "webpack-cli": "^3.0.3",
     "webpack-merge": "^4.1.2"
-  },
-  "dependencies": {}
+  }
 }

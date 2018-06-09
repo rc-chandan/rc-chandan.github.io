@@ -1,0 +1,28 @@
+@import './themes/dark-theme';
+@import './fonts';
+
+html body {
+  margin: 0;
+  padding: 10px 20px;
+  background-color: $primary-color;
+}
+
+.container {
+  display: flex;
+  flex-flow: column;
+  height: 100vh;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.nav-bar {
+  padding: 5px;
+  box-shadow: 0 0 20px $accent-color;
+  position: absolute;
+  margin: 0px 0px 0px 80%;
+  float: right;
+  color: white;
+  font-size: 12px;
+  font-family: $content-font;
+  text-shadow: 0 0 20px $accent-color;
+}
