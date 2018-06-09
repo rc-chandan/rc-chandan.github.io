@@ -1,0 +1,24 @@
+{
+  "name": "rcchandan.me",
+  "version": "1.0.0",
+  "description": "rcchandan's Blog/dev portfolio",
+  "main": "server/index.js",
+  "repository": "https://github.com/rc-chandan/rc-chandan.github.io.git",
+  "author": "rc-chandan <chandan316@outlook.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "NODE_ENV=production webpack",
+    "build:dev": "NODE_ENV=dev webpack",
+    "dev": "yarn build:dev && nodemon --inspect src/app/index.js"
+  },
+  "devDependencies": {
+    "file-loader": "^1.1.11",
+    "nodemon": "^1.17.5",
+    "sass-loader": "^7.0.3",
+    "webpack": "^4.11.1",
+    "webpack-cli": "^3.0.3",
+    "webpack-merge": "^4.1.2"
+  },
+  "dependencies": {}
+}

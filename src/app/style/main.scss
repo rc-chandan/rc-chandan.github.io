@@ -1,0 +1,8 @@
+@import './themes/dark-theme';
+@import './fonts';
+
+html body {
+  margin: 0;
+  padding: 5px;
+  background-color: $primary-color;
+}
