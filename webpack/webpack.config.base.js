@@ -23,7 +23,7 @@ const config = {
         ]
       },
       {
-        test: /\.scss$/,
+        test: /\.(s*)css$/,
         use: [
           { loader: 'style-loader' },
           { loader: 'css-loader' },
@@ -35,7 +35,7 @@ const config = {
         use: [
           {
             loader: 'file-loader',
-            options: { name: '[name].[hash].[ext]' }
+            options: { name: 'images/[name].[hash:8].[ext]' }
           }
         ]
       },

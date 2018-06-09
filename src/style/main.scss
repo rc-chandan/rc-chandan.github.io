@@ -26,3 +26,10 @@ html body {
   font-family: $content-font;
   text-shadow: 0 0 20px $accent-color;
 }
+
+.left-menu img {
+  width: 92px;
+  height: 92px;
+  border-radius: 100%;
+  box-shadow: 0 0 30px $accent-color;
+}
