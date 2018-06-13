@@ -1,6 +1,7 @@
 {
   "editor.formatOnSave": true,
   "prettier.singleQuote": true,
+  "prettier.semi": false,
   "spellright.language": "en",
   "spellright.documentTypes": ["latex", "plaintext"]
 }
