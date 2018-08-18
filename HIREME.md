@@ -40,7 +40,7 @@ October 2017 to Current
 
 1.  **Consultant and full stack developer at [Myntra](https://myntra.com)**
 
-    * Currently I am working with the Myntra team from last 2 months
+    * Currently I am working with the Myntra team from last 5 months
     * My work includes fetaure deveopements in Myntra PWA app
     * Development of reusable npm modules
     * Feature development in Myntra web app
