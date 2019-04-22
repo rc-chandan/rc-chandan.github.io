@@ -27,7 +27,7 @@
 * Dev Tools: git, zsh, vscode
 * OS: Mac OS, Ubuntu
 
-### Have worked on previously:
+### Have worked on previously
 * Frontend: CSS (LESS, SASS), Angular 1, DOJO, Cesium JS
 * Backend: Java (Spring web, Spring security, Spring Data, Hibernate, Google Endpoints)
 * Infra: Google cloud (App Engine, Datastore, BigQuery, Docker, Kubernetes container engine)
@@ -35,7 +35,7 @@
 * Dev Tools: git, zsh, guake, IntelliJ Idea
 * OS: Ubuntu
 
-### Others Tools/Tech I know:
+### Others Tools/Tech I know
 - Hands on experience with Angular 2/Vue JS, TypeScript (personal projects)
 - Other javascript build tools I like ParcelJS
 - Shell scripting (basic bash scrpting knowledge for bundling projects with deps)
