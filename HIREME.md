@@ -10,43 +10,60 @@
 | [Talks](https://www.slideshare.net/Chandan385)
 | [StackOverflow](https://stackoverflow.com/users/5538864/rc-chandan)
 | [Twitter](https://twitter.com/rc_chandan316)
-| [Medium](https://medium.com/@chandanrana)
+| [Medium](https://medium.com/@chandanrana/has-recommended)
 
 ## Professional Summary
 
 > Software Developer skilled at technical leadership, communication and presentations. Experienced in full project life cycle from design, implementation to integration.
 
-## Skills
+## Technologies I know:
 
-* Javascript old and new specs using transpilers Typescript/Babel
-* React JS, Redux, Flux architecture.
-* Node, Express JS backend
-* DOJO, Cesium JS (for GIS globe manipulation in HTML5 canvas)
-* UI styling libs (CSS in JS using styled-components, styled-jsx, CSS, LESS)
-* Javascript package management and build tools (npm, yarn | webpack, parceljs)
-* Hands on experience with Angular 2/Vue JS, TypeScript (personal projects)
-* Java, Springboot (4.xxx), Hibernate(5.xx), Google Endpoints
-* Java build tools (maven, gradle)
-* Google cloud, BigQuery, Docker, Kubernetes container engine
-* REST API design knowledge (including basic knowledge on microservices and HATEOAS API design)
-* Shell scripting (basic bash scrpting knowledge for bundling projects with deps)
+### Current stack
+* Frontend: HTML, CSS in JS(Styled-Components), React JS, Redux, Redux Saga
+* Backend: Node JS (Express JS), Python(Tornado, peewee), golang
+* Database: PostgreSQL, Redis
+* Infra: Docker, AWS
+* Build tools: Yarn, NPM, Webpack, python scripts
+* Dev Tools: git, zsh, vscode
+* OS: Mac OS, Ubuntu
+
+### Have worked on previously:
+* Frontend: CSS (LESS, SASS), Angular 1, DOJO, Cesium JS
+* Backend: Java (Spring web, Spring security, Spring Data, Hibernate, Google Endpoints)
+* Infra: Google cloud (App Engine, Datastore, BigQuery, Docker, Kubernetes container engine)
+* Build tools: Maven, Gradle, Jenkins
+* Dev Tools: git, zsh, guake, IntelliJ Idea
+* OS: Ubuntu
+
+### Others Tools/Tech I know:
+- Hands on experience with Angular 2/Vue JS, TypeScript (personal projects)
+- Other javascript build tools I like ParcelJS
+- Shell scripting (basic bash scrpting knowledge for bundling projects with deps)
 
 ---
 
 ## Work History
+Jan 2018 to Current
+<br>Riskilla Softwares
 
-October 2017 to Current
+* **Full stack Engineer at [Sensibull](https://sensibull.com)**
+
+    * Currently I am working on an options trading platform called Sensibull.
+    * My work includes fetaure deveopements in the desktop web site both backend and frontend.
+    * Technologies: _HTML5, CSS3, Javascript, React, Redux, Node, Express, Python, Go_
+ 
+---
+
+October 2017 to Dec 2018
 <br>HashedIn Technologies
 
-1.  **Consultant and full stack developer at [Myntra](https://myntra.com)**
+1.  **Consultant full stack developer at [Myntra](https://myntra.com)**
 
-    * Currently I am working with the Myntra team from last 5 months
-    * My work includes fetaure deveopements in Myntra PWA app
-    * Development of reusable npm modules
-    * Feature development in Myntra web app
+    * I have contributed mostly to the Myntra customer facing apps/websites, which includes Myntra PWA/Amp pages and desktop site.
+    * I have also developed couple of reusable webviews, which are being used by Myntra Android and iOS apps.
     * Technologies: _HTML5, CSS3, LESS, Javascript, React, Node, Express_
 
-2.  **Senior full stack developer in [SmartShift By Mahindra](https://www.smartshift.in)**
+2.  **Senior full stack developer at [SmartShift By Mahindra](https://www.smartshift.in)**
     * Modernized the application by using Maven, moving dev process to GitHub and integrating CI/CD.
     * Broken the architecture into 4 small services from one monolith.
     * Worked mostly on backend features and code reviews, refractoring of old modules.
