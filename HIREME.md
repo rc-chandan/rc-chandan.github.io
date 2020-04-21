@@ -1,10 +1,10 @@
 # Chandan Rana
 
 4A, 382/A/1, Sector-3, HSR Layout
-<br>Bangalore, Karnataka 560102
-<br>Cell: 8908389654 | E-Mail: chandan316@outlook.com
+Bangalore, Karnataka 560102
+Cell: 8908389654 | E-Mail: chandan316@outlook.com
 
-### Social
+## Social
 
 [Github](https://github.com/rc-chandan)
 | [Talks](https://www.slideshare.net/Chandan385)
@@ -19,8 +19,9 @@
 ## Technologies I know:
 
 ### Current stack
+
 * Frontend: HTML, CSS in JS(Styled-Components), React JS, Redux, Redux Saga
-* Backend: Node JS (Express JS), Python(Tornado, peewee), golang
+* Backend: Node JS, Python(Tornado, peewee), golang
 * Database: PostgreSQL, Redis
 * Infra: Docker, AWS
 * Build tools: Yarn, NPM, Webpack, python scripts
@@ -28,6 +29,7 @@
 * OS: Mac OS, Ubuntu
 
 ### Have worked on previously
+
 * Frontend: CSS (LESS, SASS), Angular 1, DOJO, Cesium JS
 * Backend: Java (Spring web, Spring security, Spring Data, Hibernate, Google Endpoints)
 * Infra: Google cloud (App Engine, Datastore, BigQuery, Docker, Kubernetes container engine)
@@ -36,34 +38,36 @@
 * OS: Ubuntu
 
 ### Others Tools/Tech I know
-- Hands on experience with Angular 2/Vue JS, TypeScript (personal projects)
-- Other javascript build tools I like ParcelJS
-- Shell scripting (basic bash scrpting knowledge for bundling projects with deps)
+
+* Hands on experience with Angular 2/Vue JS, TypeScript (personal projects)
+* Other javascript build tools I like ParcelJS
+* Shell scripting (basic bash scrpting knowledge for bundling projects with deps)
 
 ---
 
 ## Work History
-Jan 2018 to Current
-<br>Riskilla Softwares
+
+Jan 2019 to Current
+Riskilla Softwares
 
 * **Full stack Engineer at [Sensibull](https://sensibull.com)**
 
-    * Currently I am working on an options trading platform called Sensibull.
-    * My work includes fetaure deveopements in the desktop web site both backend and frontend.
-    * Technologies: _HTML5, CSS3, Javascript, React, Redux, Node, Express, Python, Go_
- 
+  * Currently I am working on an options trading platform called Sensibull.
+  * My work includes fetaure deveopements in the desktop web site both backend and frontend.
+  * Technologies: _HTML5, CSS3, Javascript, React, Redux, Node, Express, Python, Go_
+
 ---
 
 October 2017 to Dec 2018
-<br>HashedIn Technologies
+HashedIn Technologies
 
-1.  **Consultant full stack developer at [Myntra](https://myntra.com)**
+1. **Consultant full stack developer at [Myntra](https://myntra.com)**
 
     * I have contributed mostly to the Myntra customer facing apps/websites, which includes Myntra PWA/Amp pages and desktop site.
     * I have also developed couple of reusable webviews, which are being used by Myntra Android and iOS apps.
     * Technologies: _HTML5, CSS3, LESS, Javascript, React, Node, Express_
 
-2.  **Senior full stack developer at [SmartShift By Mahindra](https://www.smartshift.in)**
+2. **Senior full stack developer at [SmartShift By Mahindra](https://www.smartshift.in)**
     * Modernized the application by using Maven, moving dev process to GitHub and integrating CI/CD.
     * Broken the architecture into 4 small services from one monolith.
     * Worked mostly on backend features and code reviews, refractoring of old modules.
@@ -76,7 +80,7 @@ October 2017 to Dec 2018
 ---
 
 October 2016 to Sep 2017
-<br>VizExperts India Pvt Ltd Bangalore, Karnataka
+VizExperts India Pvt Ltd Bangalore, Karnataka
 
 * **Lead Engineer, Web Application**
   * Developed full stack GIS based web applications using Spring boot, Spring MVC, Spring Security, Hibernate, REST API as backend and React JS, Redux, JSX, DOJO, Javascript, ES2015 as frontend tech stack.
@@ -89,7 +93,7 @@ October 2016 to Sep 2017
 ---
 
 September 2014 to September 2016
-<br>Tata Consultancy Services Bangalore, Karnataka
+Tata Consultancy Services Bangalore, Karnataka
 
 * **Java Web Application Developer**
   * Built middleware products in SOA architecture using IBM MQ and Message Broker.
@@ -104,8 +108,9 @@ September 2014 to September 2016
 ## Education
 
 2014
-<br>Biju Pattnaik University of Technology,
-**Computer Science Engineering**
+Biju Pattnaik University of Technology,
+
+## Computer Science Engineering
 
 * Information Technology coursework
 * Coursework in Web Design and Development
