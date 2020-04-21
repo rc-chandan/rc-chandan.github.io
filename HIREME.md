@@ -1,7 +1,7 @@
 # Chandan Rana
 
-4A, 382/A/1, Sector-3, HSR Layout
-Bangalore, Karnataka 560102
+4A, 382/A/1, Sector-3, HSR Layout[EOF]
+Bangalore, Karnataka 560102[EOF]
 Cell: 8908389654 | E-Mail: chandan316@outlook.com
 
 ## Social
